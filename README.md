@@ -11,4 +11,6 @@ Nhiệm vụ :
 +) Chạy thử Main và kiểm tra file user_links xem đã đủ 10 link URLs chưa 
 
 +) Cài API Selenium trong Referenced Libraries dựa trên Selenium Library như sau : 
-![image](https://github.com/user-attachments/assets/46408b9e-0769-4fa9-9baa-7ecc8bae81e5)
+
+![image](https://github.com/user-attachments/assets/6a9b94d9-6d8a-414b-834b-1e27503bee5d)
+
