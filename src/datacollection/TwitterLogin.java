@@ -1,4 +1,4 @@
-package Datamning;
+package datacollection;
 
 import java.time.Duration;
 

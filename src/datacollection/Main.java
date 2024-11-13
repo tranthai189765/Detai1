@@ -1,4 +1,4 @@
-package Datamning;
+package datacollection;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -16,7 +16,7 @@ public class Main {
 		finder.searchHashtag("#Blockchain");
 
 		// Thu thập thông tin KOL
-		finder.collectKOLInfo();
+		finder.collectKOLInfo(100);
 
 		// Đóng trình duyệt
 		finder.closeBrowser();
